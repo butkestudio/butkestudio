@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm butkestudio 👋
 
-<!--
-**butkestudio/butkestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on software resilience, QA automation, and stress-testing tools. 
 
-Here are some ideas to get you started:
+### 🛠 What I do:
+- **Resilience Testing:** Creating high-entropy datasets for edge-case discovery.
+- **Automation:** Building Python scripts to automate manual QA routines.
+- **Data Engineering:** Synthesizing structured data for database stress-testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects:
+- **[Chaos Data Starter Pack](https://github.com/butkestudio/chaos-data-edge-cases):** Free open-source sample of 50+ critical edge-case scenarios. 
+- **Full Dataset (1,100+ cases):** A comprehensive library for production-grade stress testing.
+
+### 🔗 Where to find my tools:
+[[![Lemon Squeezy](https://img.shields.io/badge/Store-Lemon%20Squeezy-yellow?style=for-the-badge)]([https://butkestudio.gumroad.com/l/chaos_qa_pack)
+[![Gumroad](https://img.shields.io/badge/Store-Gumroad-important?style=for-the-badge)](https://butkestudio.gumroad.com/l/chaos_qa_pack)
+
+---
+*“Better to find a bug in staging with chaos data than to find it in production with real users.”*
